@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <LoginScreen /> debe de mostrarse correctamente 1`] = `
+<div>
+  <nav
+    className="navbar navbar-expand-lg navbar-dark bg-dark px-5"
+  >
+    <a
+      className="navbar-brand"
+      href="/login"
+    >
+      SuperBancas
+    </a>
+  </nav>
+  <div
+    className="container-login"
+  >
+    <div
+      className="row"
+    >
+      <div
+        className="box mx-auto"
+      >
+        <div
+          className="card-login text-center"
+        >
+          <div
+            className="card-header bg-dark"
+          >
+            <h1>
+              Ingresar
+            </h1>
+          </div>
+          <div
+            className="card-body"
+          >
+            <form
+              onSubmit={[Function]}
+            >
+              <div
+                className="form-row"
+              >
+                <div
+                  className="offset-1 col-lg-10"
+                >
+                  <input
+                    className="inp mt-3"
+                    placeholder="Usuario"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="form-row"
+              >
+                <div
+                  className="offset-1 col-lg-10"
+                >
+                  <input
+                    className="inp mt-3"
+                    placeholder="password"
+                    type="text"
+                  />
+                </div>
+              </div>
+              <div
+                className="form-row py-3"
+              >
+                <div
+                  className="offset-1 col-lg-10"
+                >
+                  <button
+                    className="button btn-primary mt-2"
+                    type="submit"
+                  >
+                    Login
+                  </button>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div
+            className="card-footer bg-dark"
+          >
+            SuperBancas Admin
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <nav
+    className="navbar fixed-bottom navbar-expand-lg navbar-dark bg-dark px-5 "
+  >
+    <div
+      className="container-fluid"
+    >
+      <a
+        className="navbar-brand"
+        href="/login"
+      >
+        SuperBancas
+      </a>
+    </div>
+  </nav>
+</div>
+`;

@@ -1,0 +1,64 @@
+.container-login {
+    flex: 1;
+    padding-top: 250px;
+}
+
+
+/* .center {
+    align-items: center;
+    display: flex;
+    height: 50vh;  
+    justify-content: center;
+    padding-top: 50px;
+} */
+
+.card-login {
+    border-radius: 15px;
+    justify-content: center;
+    margin: auto;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+
+.card-header {
+    color: white;
+    border-radius: 15%;
+}
+
+.card-footer {
+    color: white;
+    border-radius: 15%;
+}
+
+form {
+    background-color: rgb(255, 255, 255);
+    /* padding: 100px ; */
+}
+
+.inp {
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    padding-left: 5%;
+    box-shadow: 3px 0px 11px 7px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 3px 0px 11px 7px rgba(0,0,0,0.75);
+    -moz-box-shadow: 3px 0px 11px 7px rgba(0,0,0,0.75);
+}
+
+button {
+    height: 50px;
+    width: 70%;
+    border: none;
+    outline: none;
+    border-radius: 60px;
+    padding-left: 5%;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+}
+.box {
+    width: 350px;
+}
